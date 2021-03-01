@@ -1,5 +1,3 @@
-# hello-world
-# Мой репозиторий.
 f=open('text.txt','r')
 f1=open('output.txt','w')
 for line in f.readlines():
